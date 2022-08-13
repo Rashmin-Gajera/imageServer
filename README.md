@@ -1,2 +1,2 @@
 # imageServer
-it is a static server
+Image server for the skillitup application
