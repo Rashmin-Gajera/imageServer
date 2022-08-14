@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Rashmin-Gajera/imageServer/professions/
+https://raw.githubusercontent.com/Rashmin-Gajera/imageServer/main/professions/
