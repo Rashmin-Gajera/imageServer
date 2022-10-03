@@ -1,2 +1,2 @@
 # imageServer
-Image server for the skillitup application
+Image server for projects
